@@ -11,6 +11,9 @@ namespace Unit2
         static void Main(string[] args)
         {
             Console.WriteLine("第一个代码");
+
+            Console.WriteLine("第一个代码");
+            Console.WriteLine("第一个代码");
         }
     }
 }
