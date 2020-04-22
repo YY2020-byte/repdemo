@@ -14,6 +14,11 @@ namespace Unit2
 
             Console.WriteLine("第一个代码");
             Console.WriteLine("第一个代码");
+
+            Console.WriteLine("第一个代码");
+            Console.WriteLine("第一个代码");
+            Console.WriteLine("第一个代码");
+            Console.WriteLine("第一个代码");
         }
     }
 }
